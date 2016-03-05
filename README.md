@@ -23,13 +23,13 @@ Nasze projekty:
 1. D Lachowicz
 1. MA Lewandowski
 1. SL Majewska
-1. [Jacek Mankiewicz](http://github.com/JacekMMC/) [Repozytorium](https://github.com/JacekMMC/zadanie-1)
+1. [Jacek Mankiewicz](http://github.com/JacekMMC/)
 1. EM Ostrowska-Janczak
 1. MH Pieper
 1. [Marcin Puciato](https://github.com/mpuciato)
 1. J Rajewicz
 1. J Rajewicz
-1. D Stoltmann
+1. [Damian Stoltmann](https://github.com/damiansto)
 1. AM Szostak
 1. [Magdalena Sawicka][projekt](https://github.com/msawicka/worktime)
 1. D Uss
